@@ -11,7 +11,7 @@ on:
       - "CONTRIBUTING.md"
       - "CODE_OF_CONDUCT.md"
       - "LICENSE"
-      - "README.md"
+      - "README.md" 
       - "ROADMAP.md"
   pull_request:
     branches: [ main ]
